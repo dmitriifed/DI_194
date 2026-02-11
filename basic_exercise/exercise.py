@@ -149,8 +149,6 @@ else:
    # print("Warning: math is out of scope 3, please try again with a higher level, and a goat guitar.")
 
 
-# if the user put the right answer, it will show the message with all the variables, if not, it will show a warning message.
-
 if (increasing and nope is None and total < 8 and your_level > 0 
     and fruit == "apple" and fruit.find("l") == 3
     and instrument == "guitar" and instrument.find("ar") != -1
@@ -178,7 +176,10 @@ if (increasing and nope is None and total < 8 and your_level > human_was_level >
 else: 
     print("BUT WHY!: math needs work, ask the pets when they got you, your level is low, you mentioned a superior brand of phone, and need to listen to the goat guitar")
 
-# if the user put the right answer, it will show the message with all the variables, if not, it will show a warning message.
+
+
+
+# put the right answer, it will show the message with all the variables, if not, it will show a warning message.
 
 
 # 1
