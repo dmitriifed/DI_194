@@ -174,7 +174,7 @@ if (increasing and nope is None and total < 8 and your_level > human_was_level >
           + " Please, grab an " + fruit + ", listen to the " +  strings + " " + instrument + ", "
           + "and pet your cat and dog, they are very happy to see you.")
 else: 
-    print("BUT WHY!: math needs work, ask the pets when they got you, your level is low, you mentioned a superior brand of phone, and need to listen to the goat guitar")
+    print("BUT WHY! Try different variables: ask the pets when they got you, your level is low, you mentioned a superior brand of phone, and need to listen to the goat guitar")
 
 
 
