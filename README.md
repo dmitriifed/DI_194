@@ -8,5 +8,5 @@ Structure:
 
 _______________________________________________________
 
-BEFORE WORK: git pull → AFTER WORK: git status → git add -A → git commit -m "..." → git push
+before work: git pull // after work: git status → git add -A → git commit -m "..." → git push
  
