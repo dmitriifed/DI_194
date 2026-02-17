@@ -7,7 +7,7 @@ Structure:
 - 0_notes/ for general notes
 
 _______________________________________________________
-GITHUB MEMO
+MEMO
 
 - Before work: git pull
 
