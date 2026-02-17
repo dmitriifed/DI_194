@@ -7,9 +7,8 @@ Structure:
 - 0_notes/ for general notes
 
 _______________________________________________________
-Before work: 
-git pull
+GITHUB MEMO
 
-After work: 
-git status → git add -A → git commit -m "..." → 
-→ git push
+- Before work: git pull
+
+- After work: git status → git add -A → git commit -m "..." → git push
